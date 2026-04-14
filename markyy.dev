@@ -7,8 +7,8 @@
 
 local BRAINROT_DB = {
     ["garama"]=true,["madudung"]=true,["skibidi"]=true,["horseman"]=true,
-    ["headless"]=true,["sigma"]=true,["ohio"]=true,["fanum"]=true,
-    ["tax"]=true,["rizzler"]=true,["based"]=true,["cap"]=true,
+    ["headless"]=true,["Dragon"]=true,["Strawberry"]=true,["Elephant"]=true,
+    ["Meowl"]=true,["Hydra"]=true,["based"]=true,["cap"]=true,
     ["nocap"]=true,["bussin"]=true,["slay"]=true,["glazing"]=true,
     ["mewing"]=true,["looksmaxx"]=true,["griddy"]=true,["delulu"]=true,
     ["oomf"]=true,["npc"]=true,["sus"]=true,["bruh"]=true,
@@ -18,7 +18,7 @@ local BRAINROT_DB = {
     ["fire"]=true,["drip"]=true,["clout"]=true,["flex"]=true,
 }
 
-local KEY   = "a"
+local KEY   = "aZOnGajJksvwlZXVYGGAQ"
 local NAME  = "MarkyXXX.Inc"   -- menu name
 local BNAME = "markyy"         -- floating bar name only
 local VER   = "v3.0"
